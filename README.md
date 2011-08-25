@@ -55,11 +55,11 @@ Ready to take off, run [powder](https://github.com/Rodreegez/powder) and your in
 ## Links
 
 [gollum](https://github.com/github/gollum)
+
 [rvm](https://github.com/wayneeseguin/rvm)
+
 [bundler](https://github.com/carlhuda/bundler)
+
 [pow](https://github.com/37signals/pow)
+
 [powder](https://github.com/Rodreegez/powder)
-
-
-
-
