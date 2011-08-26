@@ -54,12 +54,12 @@ Ready to take off, run [powder](https://github.com/Rodreegez/powder) and your in
 
 ## Links
 
-[gollum](https://github.com/github/gollum)
+[gollum](https://github.com/github/gollum) - A simple, git powered wiki with a sweet API and local frontend
 
-[rvm](https://github.com/wayneeseguin/rvm)
+[rvm](https://github.com/wayneeseguin/rvm) - Ruby version manager
 
-[bundler](https://github.com/carlhuda/bundler)
+[bundler](https://github.com/carlhuda/bundler) - A tool that manages gem dependencies for your ruby application
 
-[pow](https://github.com/37signals/pow)
+[pow](https://github.com/37signals/pow) - Zero-configuration Rack server for Mac OS X
 
-[powder](https://github.com/Rodreegez/powder)
+[powder](https://github.com/Rodreegez/powder) - a great pow command line interface
