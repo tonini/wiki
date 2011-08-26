@@ -12,7 +12,7 @@ First create a new directory for your new wiki and create an empty git repositor
     $ cd ~/wiki
     $ git init
 
-Use [rvm](https://github.com/wayneeseguin/rvm) to create a gemset to keep all together and seperated.
+Use [rvm](https://github.com/wayneeseguin/rvm) to create a gemset to keep all together and isolated.
 
     $ rvm gemset create wiki
     $ echo 'rvm <your-ruby-version>@wiki' > .rvmrc
